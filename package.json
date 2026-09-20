@@ -1,0 +1,14 @@
+{
+  "name": "practical-scientific-writing",
+  "version": "1.0.0",
+  "description": "Computer Skills for Scientific Writing",
+  "main": "index.js",
+  "repository": "https://gitverse.ru/dharma/course-directory-student-template.git",
+  "author": " <>",
+  "license": "CC-BY-4.0",
+    "config": {
+	"commitizen": {
+	    "path": "cz-customizable"
+	}
+    }
+}
